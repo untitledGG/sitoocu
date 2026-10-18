@@ -1,0 +1,15 @@
+{
+  "name": "Ostia Clean-Up",
+  "short_name": "OCU",
+  "description": "Ostia Clean-Up — volontariato ambientale, clean up, educazione e progetti per il mare e la terra del litorale romano.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fbf9f4",
+  "theme_color": "#29766B",
+  "icons": [
+    { "src": "assets/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
